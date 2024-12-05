@@ -67,7 +67,7 @@ export const skills = [
       },
       {
         name: "Web Scraping",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Web_scraping_logo.png/800px-Web_scraping_logo.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBYgyi_cS4oBylEJoH4XKhXasrJF_AQWCTfw&s",
       },
       {
         name: "JavaScript (Vanilla)",
@@ -84,19 +84,19 @@ export const skills = [
     skills: [
       {
         name: "SMTP Server Configuration",
-        image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/SMTP_icon.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_83iizZkxVM5oieapeUaEf7zVlBr-jlLCaA&s",
       },
       {
         name: "Bulk Email Campaign Management",
-        image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Email-icon.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiYx5_wWWXir0yLsh3NTTNpqxvlyrrIKopug&s",
       },
       {
         name: "Email Deliverability Optimization",
-        image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Deliverability_icon.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0UxE6DkZrf8Mg8_EnJDXjINkVxDkOwp-pw&s",
       },
       {
         name: "Custom Email Template Design",
-        image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Email_template_icon.png",
+        image: "https://www.mailmonitor.com/wp-content/uploads/2022/11/improve-your-email-deliverability.png",
       },
     ],
   },
@@ -105,23 +105,23 @@ export const skills = [
     skills: [
       {
         name: "LAN/WAN/WLAN",
-        image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Network_icon.png",
+        image: "https://images.ctfassets.net/aoyx73g9h2pg/1PUW20N6ANAbYmTNy8PlMD/4039a91ec7c792c6bf80f0e2899660aa/What-is-a-Local-Area-Network-LAN-Diagram.jpg",
       },
       {
         name: "SMTP",
-        image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Email_icon.png",
+        image: "https://smtpserver.com/blog/wp-content/uploads/2022/12/SMTPServer-Blog.png",
       },
       {
         name: "POP3/IMAP",
-        image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Email_protocols_icon.png",
+        image: "https://smtpserver.com/blog/wp-content/uploads/2022/12/SMTPServer-Blog.png",
       },
       {
         name: "Email Security & Encryption",
-        image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Encryption_icon.png",
+        image: "https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1707561053/wp-pme/what-is-email-security/what-is-email-security.?_i=AA",
       },
       {
         name: "DKIM, SPF, DMARC",
-        image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Security_protocol_icon.png",
+        image: "https://mailtrap.io/wp-content/uploads/2019/07/DKIM_Featured-image_t.png",
       },
 
     ],
@@ -131,28 +131,28 @@ export const skills = [
     skills: [
       {
         name: "CMS",
-        image: "https://upload.wikimedia.org/wikipedia/commons/6/66/WordPress_logo_2022.svg",
+        image: "https://knowledge.hubspot.com/hs-fs/hubfs/content-management-system-cms-2-20241120-3519263.webp?width=650&height=394&name=content-management-system-cms-2-20241120-3519263.webp",
       },
 
       {
         name: "Visual Studio Code",
-        image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
       },
       {
         name: "UML",
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/36/UML_logo.svg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/1200px-UML_logo.svg.png",
       },
       {
         name: "Kanban (Agility)",
-        image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kanban_logo.svg",
+        image: "https://img.freepik.com/premium-vector/agile-development-scrum-board-sprints-kanban-management-team-tasks-business-agility-work-strategy-vector-illustration-set_102902-1493.jpg",
       },
       {
         name: "Figma",
-        image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+        image: "https://vectorlogoseek.com/wp-content/uploads/2020/06/figma-vector-logo.png",
       },
       {
         name: "CRM",
-        image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoho_CRM_logo.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WYIMDU-bRi17dQejz9mnMelIGiv_YJkW6A&s",
       },
     ],
   },
