@@ -22,7 +22,7 @@ export const skills = [
     skills: [
       {
         name: "HTML",
-        image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo.svg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s",
       },
       {
         name: "CSS",
@@ -34,12 +34,9 @@ export const skills = [
       },
       {
         name: "Tailwind CSS",
-        image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Tailwind_CSS_Logo.svg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s",
       },
-      {
-        name: "Sass",
-        image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo.svg",
-      },
+
       {
         name: "ReactJS",
         image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
