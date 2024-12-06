@@ -13,6 +13,7 @@ import { useState } from "react";
 import { ThemeProvider } from './context/ThemeContext';
 import Contact from "./components/section/Contact";
 import Footer from "./components/section/Footer";
+import Experience from "./components/section/Experience";
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
@@ -45,7 +46,7 @@ function App() {
         <Hero/>
         <Wrapper>
           <Skills/>
-          
+          <Experience/>
          
         </Wrapper>
         <Projects openModal={openModal} setOpenModal={setOpenModal} />
