@@ -158,7 +158,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/commons/7/75/IT_Consultant_icon.png", // Replace with an actual logo or relevant image
+    img: "https://astime-tracker.com/wp-content/uploads/2023/12/freelance-time-tracking-1.jpeg", // Replace with an actual logo or relevant image
     role: "Freelance IT Consultant",
     company: "Self-employed",
     date: "Jan 2022 - Present",
@@ -172,11 +172,11 @@ export const experiences = [
       "HTML",
       "CSS",
     ],
-    doc: "https://github.com/uid0z0uh4iri/freelance-projects", // Replace with a portfolio link if applicable
+    doc: "https://github.com/uid0z0uh4iri/", // Replace with a portfolio link if applicable
   },
   {
     id: 1,
-    img: "https://upload.wikimedia.org/wikipedia/commons/6/62/E-learning_icon.png", // Replace with a relevant image
+    img: "https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/308663177_436567325233628_7992949022632020135_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEhwyPLvQ6C6qVwtyMC1cFWxdd79GRvROPF13v0ZG9E41mWYVXjcdtbnZuEZN92NkmXCOj1ZkaAc4eXK3TupXZX&_nc_ohc=gRHwk2u8W1wQ7kNvgGhbqJz&_nc_zt=23&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=A44mpjK4MhjARpuCAWs61CA&oh=00_AYBJuNAcpfQuz6aESaeg5SCALe0R9IJiAxuupC1warAibg&oe=6758778A", // Replace with a relevant image
     role: "Web Developer Intern",
     company: "ESTS",
     date: "Apr 2021 - Jun 2021",
@@ -193,7 +193,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/92/E-commerce_icon.png", // Replace with a relevant image
+    img: "https://btmoroccotravelagency.com/wp-content/uploads/2024/01/BT-TRAVEL-Logo.png", // Replace with a relevant image
     role: "Web Developer Intern",
     company: "BT Agency",
     date: "Jun 2021 - Jul 2021",
@@ -206,11 +206,11 @@ export const experiences = [
       "JavaScript",
       "WordPress",
     ],
-    doc: "https://github.com/uid0z0uh4iri/e-commerce-app", // Replace with a portfolio link if applicable
+    doc: "https://btmoroccotravelagency.com/", // Replace with a portfolio link if applicable
   },
   {
     id: 3,
-    img: "https://upload.wikimedia.org/wikipedia/commons/4/49/Database_icon.png", // Replace with a relevant image
+    img: "https://scontent.fcmn1-4.fna.fbcdn.net/v/t39.30808-6/308663177_436567325233628_7992949022632020135_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEhwyPLvQ6C6qVwtyMC1cFWxdd79GRvROPF13v0ZG9E41mWYVXjcdtbnZuEZN92NkmXCOj1ZkaAc4eXK3TupXZX&_nc_ohc=gRHwk2u8W1wQ7kNvgGhbqJz&_nc_zt=23&_nc_ht=scontent.fcmn1-4.fna&_nc_gid=A44mpjK4MhjARpuCAWs61CA&oh=00_AYBJuNAcpfQuz6aESaeg5SCALe0R9IJiAxuupC1warAibg&oe=6758778A", // Replace with a relevant image
     role: "Database Developer Intern",
     company: "EST Salé",
     date: "Jul 2020 - Sep 2020",
@@ -225,7 +225,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://upload.wikimedia.org/wikipedia/commons/1/18/Teaching_icon.png", // Replace with a relevant image
+    img: "https://media.licdn.com/dms/image/v2/C4D0BAQGsi8i4mQK2Wg/company-logo_200_200/company-logo_200_200/0/1640275738671/youcode_maroc_logo?e=2147483647&v=beta&t=xswz4DVFiOFom4NJpdg3i1w63bgy0WaDXCxaGxof5-k", // Replace with a relevant image
     role: "Full Stack Developer Intern",
     company: "YouCode",
     date: "2024 - Present",
